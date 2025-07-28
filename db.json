@@ -1,28 +1,24 @@
 {
-  "api": {
-    "auth": {
-      "login": {
-        "access_token": "fake_access_token",
-        "token_type": "bearer",
-        "refresh_token": "fake_refresh_token",
-        "expires_in": 3600,
-        "scope": "READ WRITE",
-        "code": "1000",
-        "gender": "male",
-        "jabatan": "DEVELOPER",
-        "id_user": 1,
-        "divisi": "IT DIVISION",
-        "latestAppVersion": "1.0.0",
-        "way": "ldap",
-        "loker": "BANDUNG",
-        "unit": "BACKEND",
-        "nama": "SANDI MULYADI",
-        "nickname": "Sandi Mulyadi",
-        "band": "I",
-        "user": "1234567",
-        "jti": "fake_jti",
-        "username": "1234567"
-      }
-    }
+  "login": {
+    "access_token": "fake_access_token",
+    "token_type": "bearer",
+    "refresh_token": "fake_refresh_token",
+    "expires_in": 3600,
+    "scope": "READ WRITE",
+    "code": "1000",
+    "gender": "male",
+    "jabatan": "DEVELOPER",
+    "id_user": 1,
+    "divisi": "IT DIVISION",
+    "latestAppVersion": "1.0.0",
+    "way": "ldap",
+    "loker": "BANDUNG",
+    "unit": "BACKEND",
+    "nama": "SANDI MULYADI",
+    "nickname": "Sandi Mulyadi",
+    "band": "I",
+    "user": "1234567",
+    "jti": "fake_jti",
+    "username": "1234567"
   }
 }
