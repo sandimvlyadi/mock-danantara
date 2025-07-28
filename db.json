@@ -168,5 +168,86 @@
     "V_EMAIL": "SANDIMULYADI@COMPANY.CO.ID",
     "C_COMPANY_HOME": "1000",
     "V_COMPANY_CODE": "PT. COMPANY INDONESIA"
-  }
+  },
+  "bawahan": [
+    {
+      "ID": "2",
+      "NIK": "2342345",
+      "NAMA": "NAMA BAWAHAN",
+      "OBJID": "12312312",
+      "DIVISI": "DIREKTORAT TECHNOLOGY MANAGEMENT",
+      "UNIT": "HC TECHNOLOGY MANAGEMENT",
+      "POSISI": "OFF 1 HC TECHNOLOGY",
+      "OBJIDPOSISI": "12312312",
+      "FLAG_CHIEF": null,
+      "C_KODE_UNIT": "COP-asdfasdf",
+      "NIK_ATASAN": "1234567",
+      "NAMA_ATASAN": "SANDI MULYADI",
+      "OBJID_ATASAN": "12312312",
+      "POSISI_ATASAN": "MGR HC TECHNOLOGY",
+      "TGL_POSISI": "2024-01",
+      "TGL_DIVISI": "2024-01-01",
+      "COMPANY_CODE": "1000",
+      "CREATE_TIME": "2025-01-01",
+      "TGL_LAHIR": "03-01",
+      "TGL_LAHIR_P1": "03-02",
+      "TGL_LAHIR_P2": "03-03",
+      "TGL_LAHIR_M1": "02-28",
+      "TGL_LAHIR_M2": "02-27"
+    }
+  ],
+  "atasan": [
+    {
+      "ID": "3",
+      "NIK": "3453456",
+      "NAMA": "NAMA ATASAN",
+      "OBJID": "12312312",
+      "DIVISI": "DIREKTORAT TECHNOLOGY MANAGEMENT",
+      "UNIT": "HC TECHNOLOGY MANAGEMENT",
+      "POSISI": "OFF 1 HC TECHNOLOGY",
+      "OBJIDPOSISI": "12312312",
+      "FLAG_CHIEF": null,
+      "C_KODE_UNIT": "COP-asdfasdf",
+      "NIK_ATASAN": "2342347",
+      "NAMA_ATASAN": "NAMA GRAND ATASAN",
+      "OBJID_ATASAN": "12312312",
+      "POSISI_ATASAN": "DIR HC TECHNOLOGY",
+      "TGL_POSISI": "2024-01",
+      "TGL_DIVISI": "2024-01-01",
+      "COMPANY_CODE": "1000",
+      "CREATE_TIME": "2025-01-01",
+      "TGL_LAHIR": "03-01",
+      "TGL_LAHIR_P1": "03-02",
+      "TGL_LAHIR_P2": "03-03",
+      "TGL_LAHIR_M1": "02-28",
+      "TGL_LAHIR_M2": "02-27"
+    }
+  ],
+  "peer": [
+    {
+      "ID": "5",
+      "NIK": "4564567",
+      "NAMA": "NAMA PEER",
+      "OBJID": "12312312",
+      "DIVISI": "DIREKTORAT TECHNOLOGY MANAGEMENT",
+      "UNIT": "HC TECHNOLOGY MANAGEMENT",
+      "POSISI": "OFF 1 HC TECHNOLOGY",
+      "OBJIDPOSISI": "12312312",
+      "FLAG_CHIEF": null,
+      "C_KODE_UNIT": "COP-asdfasdf",
+      "NIK_ATASAN": "3453456",
+      "NAMA_ATASAN": "SANDI ATASAN",
+      "OBJID_ATASAN": "12312312",
+      "POSISI_ATASAN": "MGR HC TECHNOLOGY",
+      "TGL_POSISI": "2024-01",
+      "TGL_DIVISI": "2024-01-01",
+      "COMPANY_CODE": "1000",
+      "CREATE_TIME": "2025-01-01",
+      "TGL_LAHIR": "03-01",
+      "TGL_LAHIR_P1": "03-02",
+      "TGL_LAHIR_P2": "03-03",
+      "TGL_LAHIR_M1": "02-28",
+      "TGL_LAHIR_M2": "02-27"
+    }
+  ]
 }
